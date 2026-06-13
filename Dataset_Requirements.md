@@ -1,4 +1,4 @@
-# Step 2: Dataset & Requirements - Supply Chain Management System
+ Dataset & Requirements - Supply Chain Management System
 
 ## Introduction
 In this step, we will explore the structure of the **Supply Chain Management System** database. Understanding the entities and their relationships is crucial before writing any SQL code.
@@ -76,5 +76,4 @@ The relationships between these tables are as follows:
 *   **Not Null:** Critical columns like `FirstName`, `OrderDate`, and `ProductName` must always contain data.
 *   **Indexing:** Indexes should be created on frequently searched columns like `LastName` and `OrderDate` to improve query performance.
 
----
-*Next, proceed to **Step 3: SQL Code** to begin building your database.*
+
